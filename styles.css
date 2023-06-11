@@ -1,6 +1,21 @@
+body{
+    width: 100%;
+    background-color: burlywood;
+}
+
 .container{
     display: flex;
     width: 800px;
+    margin: 0 auto;
+}
+
+.reset-page{
+    margin: 0 auto;
+    height: 25px;
+}
+
+.wrapper{
+    display:flex;
 }
 
 .row{
